@@ -1,0 +1,33 @@
+{
+    "name": "utkarsh-favorite-extensions-pack",
+    "displayName": "Utkarsh Favorite Extensions Pack",
+    "description": "My favorite extensions pack for quicker environment setup (created for personal use only)",
+    "version": "0.0.1",
+    "publisher": "onlyutkarsh",
+    "repository": "https://github.com/onlyutkarsh/utkarsh-favorite-extensions-pack-for-vscode.git",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "ed-elliott.azure-arm-template-helper", 
+        "eg2.tslint", 
+        "eg2.vscode-npm-script", 
+        "jasonnutter.search-node-modules", 
+        "mikestead.dotenv", 
+        "ms-vscode.PowerShell", 
+        "msazurermtools.azurerm-vscode-tools", 
+        "msjsdiag.debugger-for-chrome", 
+        "robertohuertasm.vscode-icons", 
+        "samcogan.arm-snippets", 
+        "waderyan.nodejs-extension-pack", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
