@@ -3,8 +3,14 @@
     "displayName": "Utkarsh Favorite Extensions Pack",
     "description": "My favorite extensions pack for quicker environment setup (created for personal use only)",
     "version": "0.0.1",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+		"color": "#3b3e43",
+		"theme": "dark"
+	},
     "publisher": "onlyutkarsh",
     "repository": "https://github.com/onlyutkarsh/utkarsh-favorite-extensions-pack-for-vscode.git",
+    "homepage": "https://github.com/onlyutkarsh/utkarsh-favorite-extensions-pack-for-vscode/blob/master/README.md",
     "engines": {
         "vscode": "^1.30.0"
     },
